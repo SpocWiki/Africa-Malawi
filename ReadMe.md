@@ -109,8 +109,8 @@ id: Malawi
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Malawi//
-markerFolder: ./Malawi//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Malawi] 
