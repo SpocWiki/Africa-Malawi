@@ -40,11 +40,18 @@ markerFolder: ./Chikwawa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Chikwawa|Chikwawa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Chikwawa.public|Chikwawa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Chikwawa.internal|Chikwawa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Chikwawa.protect|Chikwawa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Chikwawa.private|Chikwawa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Chikwawa.personal|Chikwawa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Chikwawa.secret|Chikwawa.secret]] 
+
+### #is_/same_as :: [Chikwawa](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chikwawa.md) 
+
+### #is_/same_as :: [Chikwawa.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chikwawa.public.md) 
+
+### #is_/same_as :: [Chikwawa.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chikwawa.internal.md) 
+
+### #is_/same_as :: [Chikwawa.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chikwawa.protect.md) 
+
+### #is_/same_as :: [Chikwawa.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chikwawa.private.md) 
+
+### #is_/same_as :: [Chikwawa.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chikwawa.personal.md) 
+
+### #is_/same_as :: [Chikwawa.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chikwawa.secret.md)
 

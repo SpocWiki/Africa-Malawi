@@ -40,11 +40,18 @@ markerFolder: ./Mwanza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Mwanza|Mwanza]] 
-- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Mwanza.public|Mwanza.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mwanza.internal|Mwanza.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mwanza.protect|Mwanza.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Mwanza.private|Mwanza.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mwanza.personal|Mwanza.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mwanza.secret|Mwanza.secret]] 
+
+### #is_/same_as :: [Mwanza](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mwanza.md) 
+
+### #is_/same_as :: [Mwanza.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mwanza.public.md) 
+
+### #is_/same_as :: [Mwanza.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mwanza.internal.md) 
+
+### #is_/same_as :: [Mwanza.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mwanza.protect.md) 
+
+### #is_/same_as :: [Mwanza.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mwanza.private.md) 
+
+### #is_/same_as :: [Mwanza.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mwanza.personal.md) 
+
+### #is_/same_as :: [Mwanza.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mwanza.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Nkhata_Bay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay|Nkhata_Bay]] 
-- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.public|Nkhata_Bay.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.internal|Nkhata_Bay.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.protect|Nkhata_Bay.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.private|Nkhata_Bay.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.personal|Nkhata_Bay.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Nkhata_Bay.secret|Nkhata_Bay.secret]] 
+
+### #is_/same_as :: [Nkhata_Bay](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhata_Bay.md) 
+
+### #is_/same_as :: [Nkhata_Bay.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhata_Bay.public.md) 
+
+### #is_/same_as :: [Nkhata_Bay.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhata_Bay.internal.md) 
+
+### #is_/same_as :: [Nkhata_Bay.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhata_Bay.protect.md) 
+
+### #is_/same_as :: [Nkhata_Bay.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhata_Bay.private.md) 
+
+### #is_/same_as :: [Nkhata_Bay.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhata_Bay.personal.md) 
+
+### #is_/same_as :: [Nkhata_Bay.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhata_Bay.secret.md)
 

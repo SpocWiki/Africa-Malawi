@@ -40,11 +40,18 @@ markerFolder: ./Dowa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Dowa|Dowa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Dowa.public|Dowa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Dowa.internal|Dowa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Dowa.protect|Dowa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Dowa.private|Dowa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Dowa.personal|Dowa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Dowa.secret|Dowa.secret]] 
+
+### #is_/same_as :: [Dowa](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Dowa.md) 
+
+### #is_/same_as :: [Dowa.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Dowa.public.md) 
+
+### #is_/same_as :: [Dowa.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Dowa.internal.md) 
+
+### #is_/same_as :: [Dowa.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Dowa.protect.md) 
+
+### #is_/same_as :: [Dowa.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Dowa.private.md) 
+
+### #is_/same_as :: [Dowa.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Dowa.personal.md) 
+
+### #is_/same_as :: [Dowa.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Dowa.secret.md)
 

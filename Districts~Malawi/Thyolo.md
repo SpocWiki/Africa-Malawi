@@ -40,11 +40,18 @@ markerFolder: ./Thyolo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Thyolo|Thyolo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Thyolo.public|Thyolo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Thyolo.internal|Thyolo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Thyolo.protect|Thyolo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Thyolo.private|Thyolo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Thyolo.personal|Thyolo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Thyolo.secret|Thyolo.secret]] 
+
+### #is_/same_as :: [Thyolo](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Thyolo.md) 
+
+### #is_/same_as :: [Thyolo.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Thyolo.public.md) 
+
+### #is_/same_as :: [Thyolo.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Thyolo.internal.md) 
+
+### #is_/same_as :: [Thyolo.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Thyolo.protect.md) 
+
+### #is_/same_as :: [Thyolo.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Thyolo.private.md) 
+
+### #is_/same_as :: [Thyolo.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Thyolo.personal.md) 
+
+### #is_/same_as :: [Thyolo.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Thyolo.secret.md)
 

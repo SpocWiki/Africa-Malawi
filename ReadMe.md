@@ -131,10 +131,4 @@ Capital :: [[Lilongwe]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Malawi|Malawi]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~East/Malawi.internal|Malawi.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~East/Malawi.protect|Malawi.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~East/Malawi.private|Malawi.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~East/Malawi.personal|Malawi.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~East/Malawi.secret|Malawi.secret]] 
+

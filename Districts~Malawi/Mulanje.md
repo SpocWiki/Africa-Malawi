@@ -40,11 +40,18 @@ markerFolder: ./Mulanje/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Mulanje|Mulanje]] 
-- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Mulanje.public|Mulanje.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Mulanje.internal|Mulanje.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Mulanje.protect|Mulanje.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Mulanje.private|Mulanje.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Mulanje.personal|Mulanje.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Mulanje.secret|Mulanje.secret]] 
+
+### #is_/same_as :: [Mulanje](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mulanje.md) 
+
+### #is_/same_as :: [Mulanje.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mulanje.public.md) 
+
+### #is_/same_as :: [Mulanje.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mulanje.internal.md) 
+
+### #is_/same_as :: [Mulanje.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mulanje.protect.md) 
+
+### #is_/same_as :: [Mulanje.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mulanje.private.md) 
+
+### #is_/same_as :: [Mulanje.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mulanje.personal.md) 
+
+### #is_/same_as :: [Mulanje.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mulanje.secret.md)
 

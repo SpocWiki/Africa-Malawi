@@ -40,11 +40,18 @@ markerFolder: ./Zomba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Zomba|Zomba]] 
-- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Zomba.public|Zomba.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Zomba.internal|Zomba.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Zomba.protect|Zomba.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Zomba.private|Zomba.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Zomba.personal|Zomba.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Zomba.secret|Zomba.secret]] 
+
+### #is_/same_as :: [Zomba](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Zomba.md) 
+
+### #is_/same_as :: [Zomba.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Zomba.public.md) 
+
+### #is_/same_as :: [Zomba.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Zomba.internal.md) 
+
+### #is_/same_as :: [Zomba.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Zomba.protect.md) 
+
+### #is_/same_as :: [Zomba.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Zomba.private.md) 
+
+### #is_/same_as :: [Zomba.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Zomba.personal.md) 
+
+### #is_/same_as :: [Zomba.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Zomba.secret.md)
 

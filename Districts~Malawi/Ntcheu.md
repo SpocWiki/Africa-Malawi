@@ -40,11 +40,18 @@ markerFolder: ./Ntcheu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Ntcheu|Ntcheu]] 
-- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Ntcheu.public|Ntcheu.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Ntcheu.internal|Ntcheu.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Ntcheu.protect|Ntcheu.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Ntcheu.private|Ntcheu.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Ntcheu.personal|Ntcheu.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Ntcheu.secret|Ntcheu.secret]] 
+
+### #is_/same_as :: [Ntcheu](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntcheu.md) 
+
+### #is_/same_as :: [Ntcheu.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntcheu.public.md) 
+
+### #is_/same_as :: [Ntcheu.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntcheu.internal.md) 
+
+### #is_/same_as :: [Ntcheu.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntcheu.protect.md) 
+
+### #is_/same_as :: [Ntcheu.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntcheu.private.md) 
+
+### #is_/same_as :: [Ntcheu.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntcheu.personal.md) 
+
+### #is_/same_as :: [Ntcheu.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntcheu.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Machinga/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Machinga|Machinga]] 
-- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Machinga.public|Machinga.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Machinga.internal|Machinga.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Machinga.protect|Machinga.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Machinga.private|Machinga.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Machinga.personal|Machinga.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Machinga.secret|Machinga.secret]] 
+
+### #is_/same_as :: [Machinga](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Machinga.md) 
+
+### #is_/same_as :: [Machinga.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Machinga.public.md) 
+
+### #is_/same_as :: [Machinga.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Machinga.internal.md) 
+
+### #is_/same_as :: [Machinga.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Machinga.protect.md) 
+
+### #is_/same_as :: [Machinga.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Machinga.private.md) 
+
+### #is_/same_as :: [Machinga.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Machinga.personal.md) 
+
+### #is_/same_as :: [Machinga.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Machinga.secret.md)
 

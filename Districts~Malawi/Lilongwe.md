@@ -40,11 +40,18 @@ markerFolder: ./Lilongwe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Malawi/Counties/Lilongwe|Lilongwe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Malawi/Counties/Lilongwe.public|Lilongwe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Malawi/Counties/Lilongwe.internal|Lilongwe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Malawi/Counties/Lilongwe.protect|Lilongwe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Malawi/Counties/Lilongwe.private|Lilongwe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Malawi/Counties/Lilongwe.personal|Lilongwe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Malawi/Counties/Lilongwe.secret|Lilongwe.secret]] 
+
+### #is_/same_as :: [Lilongwe](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.md) 
+
+### #is_/same_as :: [Lilongwe.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.public.md) 
+
+### #is_/same_as :: [Lilongwe.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.internal.md) 
+
+### #is_/same_as :: [Lilongwe.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.protect.md) 
+
+### #is_/same_as :: [Lilongwe.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.private.md) 
+
+### #is_/same_as :: [Lilongwe.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.personal.md) 
+
+### #is_/same_as :: [Lilongwe.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.secret.md)
 
