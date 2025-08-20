@@ -1,30 +1,29 @@
 ---
-location: [ -14.2 , 35.1 ] 
+location:
+  - -14.2
+  - 35.1
 type: geo-Region
 title: Mangochi
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Mangochi
-
+  - Mangochi
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Mangochi
