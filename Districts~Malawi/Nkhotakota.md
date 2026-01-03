@@ -40,17 +40,17 @@ markerFolder: ./Nkhotakota/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nkhotakota](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota|Nkhotakota]] 
 
-### #is_/same_as :: [Nkhotakota.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.public|Nkhotakota.public]] 
 
-### #is_/same_as :: [Nkhotakota.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.internal|Nkhotakota.internal]] 
 
-### #is_/same_as :: [Nkhotakota.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.protect|Nkhotakota.protect]] 
 
-### #is_/same_as :: [Nkhotakota.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.private|Nkhotakota.private]] 
 
-### #is_/same_as :: [Nkhotakota.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.personal|Nkhotakota.personal]] 
 
-### #is_/same_as :: [Nkhotakota.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nkhotakota.secret|Nkhotakota.secret]] 
 

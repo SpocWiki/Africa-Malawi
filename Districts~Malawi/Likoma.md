@@ -40,17 +40,17 @@ markerFolder: ./Likoma/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Likoma](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma|Likoma]] 
 
-### #is_/same_as :: [Likoma.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.public|Likoma.public]] 
 
-### #is_/same_as :: [Likoma.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.internal|Likoma.internal]] 
 
-### #is_/same_as :: [Likoma.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.protect|Likoma.protect]] 
 
-### #is_/same_as :: [Likoma.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.private|Likoma.private]] 
 
-### #is_/same_as :: [Likoma.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.personal|Likoma.personal]] 
 
-### #is_/same_as :: [Likoma.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Likoma.secret|Likoma.secret]] 
 

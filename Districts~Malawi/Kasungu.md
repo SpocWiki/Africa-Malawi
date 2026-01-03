@@ -40,17 +40,17 @@ markerFolder: ./Kasungu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kasungu](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu|Kasungu]] 
 
-### #is_/same_as :: [Kasungu.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.public|Kasungu.public]] 
 
-### #is_/same_as :: [Kasungu.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.internal|Kasungu.internal]] 
 
-### #is_/same_as :: [Kasungu.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.protect|Kasungu.protect]] 
 
-### #is_/same_as :: [Kasungu.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.private|Kasungu.private]] 
 
-### #is_/same_as :: [Kasungu.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.personal|Kasungu.personal]] 
 
-### #is_/same_as :: [Kasungu.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Kasungu.secret|Kasungu.secret]] 
 

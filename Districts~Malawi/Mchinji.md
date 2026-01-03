@@ -40,17 +40,17 @@ markerFolder: ./Mchinji/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mchinji](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji|Mchinji]] 
 
-### #is_/same_as :: [Mchinji.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.public|Mchinji.public]] 
 
-### #is_/same_as :: [Mchinji.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.internal|Mchinji.internal]] 
 
-### #is_/same_as :: [Mchinji.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.protect|Mchinji.protect]] 
 
-### #is_/same_as :: [Mchinji.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.private|Mchinji.private]] 
 
-### #is_/same_as :: [Mchinji.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.personal|Mchinji.personal]] 
 
-### #is_/same_as :: [Mchinji.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mchinji.secret|Mchinji.secret]] 
 

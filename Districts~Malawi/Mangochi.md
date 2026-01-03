@@ -40,17 +40,17 @@ markerFolder: ./Mangochi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mangochi](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi|Mangochi]] 
 
-### #is_/same_as :: [Mangochi.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.public|Mangochi.public]] 
 
-### #is_/same_as :: [Mangochi.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.internal|Mangochi.internal]] 
 
-### #is_/same_as :: [Mangochi.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.protect|Mangochi.protect]] 
 
-### #is_/same_as :: [Mangochi.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.private|Mangochi.private]] 
 
-### #is_/same_as :: [Mangochi.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.personal|Mangochi.personal]] 
 
-### #is_/same_as :: [Mangochi.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mangochi.secret|Mangochi.secret]] 
 

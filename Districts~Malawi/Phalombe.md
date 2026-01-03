@@ -40,17 +40,17 @@ markerFolder: ./Phalombe/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phalombe](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe|Phalombe]] 
 
-### #is_/same_as :: [Phalombe.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.public|Phalombe.public]] 
 
-### #is_/same_as :: [Phalombe.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.internal|Phalombe.internal]] 
 
-### #is_/same_as :: [Phalombe.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.protect|Phalombe.protect]] 
 
-### #is_/same_as :: [Phalombe.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.private|Phalombe.private]] 
 
-### #is_/same_as :: [Phalombe.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.personal|Phalombe.personal]] 
 
-### #is_/same_as :: [Phalombe.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Phalombe.secret|Phalombe.secret]] 
 

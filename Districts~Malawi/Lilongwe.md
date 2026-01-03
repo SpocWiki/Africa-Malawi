@@ -98,19 +98,20 @@ markerFile: [[Lilongwe]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lilongwe)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lilongwe](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe|Lilongwe]] 
 
-### #is_/same_as :: [Lilongwe.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.public|Lilongwe.public]] 
 
-### #is_/same_as :: [Lilongwe.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.internal|Lilongwe.internal]] 
 
-### #is_/same_as :: [Lilongwe.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.protect|Lilongwe.protect]] 
 
-### #is_/same_as :: [Lilongwe.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.private|Lilongwe.private]] 
 
-### #is_/same_as :: [Lilongwe.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.personal|Lilongwe.personal]] 
 
-### #is_/same_as :: [Lilongwe.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Lilongwe.secret|Lilongwe.secret]] 
 

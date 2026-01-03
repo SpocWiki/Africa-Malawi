@@ -40,17 +40,17 @@ markerFolder: ./Ntchisi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ntchisi](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi|Ntchisi]] 
 
-### #is_/same_as :: [Ntchisi.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.public|Ntchisi.public]] 
 
-### #is_/same_as :: [Ntchisi.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.internal|Ntchisi.internal]] 
 
-### #is_/same_as :: [Ntchisi.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.protect|Ntchisi.protect]] 
 
-### #is_/same_as :: [Ntchisi.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.private|Ntchisi.private]] 
 
-### #is_/same_as :: [Ntchisi.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.personal|Ntchisi.personal]] 
 
-### #is_/same_as :: [Ntchisi.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Ntchisi.secret|Ntchisi.secret]] 
 

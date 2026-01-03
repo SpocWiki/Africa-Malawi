@@ -40,17 +40,17 @@ markerFolder: ./Neno/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neno](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno|Neno]] 
 
-### #is_/same_as :: [Neno.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.public|Neno.public]] 
 
-### #is_/same_as :: [Neno.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.internal|Neno.internal]] 
 
-### #is_/same_as :: [Neno.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.protect|Neno.protect]] 
 
-### #is_/same_as :: [Neno.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.private|Neno.private]] 
 
-### #is_/same_as :: [Neno.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.personal|Neno.personal]] 
 
-### #is_/same_as :: [Neno.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Neno.secret|Neno.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Blantyre/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blantyre](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre|Blantyre]] 
 
-### #is_/same_as :: [Blantyre.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.public|Blantyre.public]] 
 
-### #is_/same_as :: [Blantyre.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.internal|Blantyre.internal]] 
 
-### #is_/same_as :: [Blantyre.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.protect|Blantyre.protect]] 
 
-### #is_/same_as :: [Blantyre.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.private|Blantyre.private]] 
 
-### #is_/same_as :: [Blantyre.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.personal|Blantyre.personal]] 
 
-### #is_/same_as :: [Blantyre.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Blantyre.secret|Blantyre.secret]] 
 

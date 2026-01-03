@@ -84,3 +84,20 @@ markerFile: [[Lake_Malawi]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lake%20Malawi) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Lake_Malawi|Lake_Malawi]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Lake_Malawi.public|Lake_Malawi.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Lake_Malawi.internal|Lake_Malawi.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Lake_Malawi.protect|Lake_Malawi.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Lake_Malawi.private|Lake_Malawi.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Lake_Malawi.personal|Lake_Malawi.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Lake_Malawi.secret|Lake_Malawi.secret]] 
+

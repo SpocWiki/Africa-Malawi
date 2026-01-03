@@ -40,17 +40,17 @@ markerFolder: ./Balaka/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Balaka](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka|Balaka]] 
 
-### #is_/same_as :: [Balaka.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.public|Balaka.public]] 
 
-### #is_/same_as :: [Balaka.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.internal|Balaka.internal]] 
 
-### #is_/same_as :: [Balaka.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.protect|Balaka.protect]] 
 
-### #is_/same_as :: [Balaka.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.private|Balaka.private]] 
 
-### #is_/same_as :: [Balaka.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.personal|Balaka.personal]] 
 
-### #is_/same_as :: [Balaka.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Balaka.secret|Balaka.secret]] 
 

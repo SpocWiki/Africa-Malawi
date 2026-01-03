@@ -40,17 +40,17 @@ markerFolder: ./Nsanje/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nsanje](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje|Nsanje]] 
 
-### #is_/same_as :: [Nsanje.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.public|Nsanje.public]] 
 
-### #is_/same_as :: [Nsanje.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.internal|Nsanje.internal]] 
 
-### #is_/same_as :: [Nsanje.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.protect|Nsanje.protect]] 
 
-### #is_/same_as :: [Nsanje.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.private|Nsanje.private]] 
 
-### #is_/same_as :: [Nsanje.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.personal|Nsanje.personal]] 
 
-### #is_/same_as :: [Nsanje.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Nsanje.secret|Nsanje.secret]] 
 

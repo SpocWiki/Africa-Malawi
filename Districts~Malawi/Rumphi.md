@@ -40,17 +40,17 @@ markerFolder: ./Rumphi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rumphi](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi|Rumphi]] 
 
-### #is_/same_as :: [Rumphi.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.public|Rumphi.public]] 
 
-### #is_/same_as :: [Rumphi.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.internal|Rumphi.internal]] 
 
-### #is_/same_as :: [Rumphi.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.protect|Rumphi.protect]] 
 
-### #is_/same_as :: [Rumphi.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.private|Rumphi.private]] 
 
-### #is_/same_as :: [Rumphi.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.personal|Rumphi.personal]] 
 
-### #is_/same_as :: [Rumphi.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Rumphi.secret|Rumphi.secret]] 
 

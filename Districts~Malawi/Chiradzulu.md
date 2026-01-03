@@ -40,17 +40,17 @@ markerFolder: ./Chiradzulu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chiradzulu](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu|Chiradzulu]] 
 
-### #is_/same_as :: [Chiradzulu.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.public|Chiradzulu.public]] 
 
-### #is_/same_as :: [Chiradzulu.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.internal|Chiradzulu.internal]] 
 
-### #is_/same_as :: [Chiradzulu.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.protect|Chiradzulu.protect]] 
 
-### #is_/same_as :: [Chiradzulu.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.private|Chiradzulu.private]] 
 
-### #is_/same_as :: [Chiradzulu.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.personal|Chiradzulu.personal]] 
 
-### #is_/same_as :: [Chiradzulu.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Chiradzulu.secret|Chiradzulu.secret]] 
 

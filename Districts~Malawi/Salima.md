@@ -40,17 +40,17 @@ markerFolder: ./Salima/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salima](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima|Salima]] 
 
-### #is_/same_as :: [Salima.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.public|Salima.public]] 
 
-### #is_/same_as :: [Salima.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.internal|Salima.internal]] 
 
-### #is_/same_as :: [Salima.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.protect|Salima.protect]] 
 
-### #is_/same_as :: [Salima.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.private|Salima.private]] 
 
-### #is_/same_as :: [Salima.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.personal|Salima.personal]] 
 
-### #is_/same_as :: [Salima.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Salima.secret|Salima.secret]] 
 

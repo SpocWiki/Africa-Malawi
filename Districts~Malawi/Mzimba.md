@@ -40,17 +40,17 @@ markerFolder: ./Mzimba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mzimba](/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba|Mzimba]] 
 
-### #is_/same_as :: [Mzimba.public](/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.public|Mzimba.public]] 
 
-### #is_/same_as :: [Mzimba.internal](/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.internal|Mzimba.internal]] 
 
-### #is_/same_as :: [Mzimba.protect](/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.protect|Mzimba.protect]] 
 
-### #is_/same_as :: [Mzimba.private](/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.private|Mzimba.private]] 
 
-### #is_/same_as :: [Mzimba.personal](/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.personal|Mzimba.personal]] 
 
-### #is_/same_as :: [Mzimba.secret](/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Malawi/Districts~Malawi/Mzimba.secret|Mzimba.secret]] 
 
