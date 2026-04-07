@@ -26,23 +26,23 @@ layout:
 publishDate:
 expiryDate:
 capital_of:
-  - "[[_Standards/WikiData/WD~Central_Region,860758]]"
-  - "[[_Standards/WikiData/WD~Lilongwe_District,1058453]]"
-  - "[[_Standards/WikiData/WD~Malawi,1020]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lilongwe_District,1058453]]"
+  - "[[_Standards/WikiData/WD~Central_Region,860758|WD~Central_Region,860758]]"
+  - "[[_Standards/WikiData/WD~Lilongwe_District,1058453|WD~Lilongwe_District,1058453]]"
+  - "[[_Standards/WikiData/WD~Malawi,1020|WD~Malawi,1020]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lilongwe_District,1058453|WD~Lilongwe_District,1058453]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Lilongwe_River,1825272]]"
-named_after: "[[_Standards/WikiData/WD~Lilongwe_River,1825272]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q17457658,17457658]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Lilongwe,39088105]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~city,515|WD~city,515]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Lilongwe_River,1825272|WD~Lilongwe_River,1825272]]"
+named_after: "[[_Standards/WikiData/WD~Lilongwe_River,1825272|WD~Lilongwe_River,1825272]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q17457658,17457658|WD~Q17457658,17457658]]"
+history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Lilongwe,39088105|WD~timeline_of_Lilongwe,39088105]]"
 coordinate_location:
   - Point(33.783333333 -13.983333333)
   - Point(33.78725 -13.96692)
-country: "[[_Standards/WikiData/WD~Malawi,1020]]"
-twinned_administrative_body: "[[_Standards/WikiData/WD~Taipei,1867]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+country: "[[_Standards/WikiData/WD~Malawi,1020|WD~Malawi,1020]]"
+twinned_administrative_body: "[[_Standards/WikiData/WD~Taipei,1867|WD~Taipei,1867]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]"
 elevation_above_sea_level: 1050
 area: 727.79
 OmegaWiki_Defined_Meaning: "624106"

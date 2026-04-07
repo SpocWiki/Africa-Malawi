@@ -7,29 +7,29 @@ aliases:
 has_id_wikidata: Q5532
 location:  [-12.183333333, 34.366666666] 
 part_of:
-  - "[[_Standards/WikiData/WD~African_Great_Lakes,87982]]"
-  - "[[_Standards/WikiData/WD~Lake_Malawi_National_Park,1077596]]"
-  - "[[_Standards/WikiData/WD~Rift_Valley_lakes,2915867]]"
+  - "[[_Standards/WikiData/WD~African_Great_Lakes,87982|WD~African_Great_Lakes,87982]]"
+  - "[[_Standards/WikiData/WD~Lake_Malawi_National_Park,1077596|WD~Lake_Malawi_National_Park,1077596]]"
+  - "[[_Standards/WikiData/WD~Rift_Valley_lakes,2915867|WD~Rift_Valley_lakes,2915867]]"
 inflows:
-  - "[[_Standards/WikiData/WD~Dwangwa_River,1268417]]"
-  - "[[_Standards/WikiData/WD~Lilongwe_River,1825272]]"
-  - "[[_Standards/WikiData/WD~Ruhuhu_River,2175154]]"
-  - "[[_Standards/WikiData/WD~South_Rukuru_River,4785870]]"
-  - "[[_Standards/WikiData/WD~Songwe_River,14934686]]"
-  - "[[_Standards/WikiData/WD~Lufilya,32138920]]"
-outflows: "[[_Standards/WikiData/WD~Shire_River,2279579]]"
+  - "[[_Standards/WikiData/WD~Dwangwa_River,1268417|WD~Dwangwa_River,1268417]]"
+  - "[[_Standards/WikiData/WD~Lilongwe_River,1825272|WD~Lilongwe_River,1825272]]"
+  - "[[_Standards/WikiData/WD~Ruhuhu_River,2175154|WD~Ruhuhu_River,2175154]]"
+  - "[[_Standards/WikiData/WD~South_Rukuru_River,4785870|WD~South_Rukuru_River,4785870]]"
+  - "[[_Standards/WikiData/WD~Songwe_River,14934686|WD~Songwe_River,14934686]]"
+  - "[[_Standards/WikiData/WD~Lufilya,32138920|WD~Lufilya,32138920]]"
+outflows: "[[_Standards/WikiData/WD~Shire_River,2279579|WD~Shire_River,2279579]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-shares_border_with: "[[_Standards/WikiData/WD~Chintheche,5101358]]"
-drainage_basin: "[[_Standards/WikiData/WD~Zambezi_Basin,14594747]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]"
+shares_border_with: "[[_Standards/WikiData/WD~Chintheche,5101358|WD~Chintheche,5101358]]"
+drainage_basin: "[[_Standards/WikiData/WD~Zambezi_Basin,14594747|WD~Zambezi_Basin,14594747]]"
 coordinate_location: Point(34.366666666 -12.183333333)
 country:
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Malawi,1020]]"
-  - "[[_Standards/WikiData/WD~Mozambique,1029]]"
-instance_of: "[[_Standards/WikiData/WD~lake,23397]]"
+  - "[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]"
+  - "[[_Standards/WikiData/WD~Malawi,1020|WD~Malawi,1020]]"
+  - "[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]"
+instance_of: "[[_Standards/WikiData/WD~lake,23397|WD~lake,23397]]"
 length: 570
 width: 75
 volume_as_quantity:
