@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mchinji/
 markerFolder: ./Mchinji/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

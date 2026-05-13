@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Nkhata_Bay/
 markerFolder: ./Nkhata_Bay/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

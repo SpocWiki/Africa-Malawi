@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Chikwawa/
 markerFolder: ./Chikwawa/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
