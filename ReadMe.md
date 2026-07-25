@@ -409,7 +409,7 @@ dv_UNTERM_Chinese_Formal: 马拉维共和国
 dv_UNTERM_French_Formal: la République du Malawi
 dv_UNTERM_Russian: Малави
 dv_UNTERM_Russian_Formal: Республика Малави
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -437,7 +437,7 @@ dv_ISO2: MW
 dv_ISO3: MWI
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]]'
+  - '[[../../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~East/Malawi|Malawi]]'
   - '[[/_public/Earth/Continent/Africa/Africa~East/Malawi.public|Malawi.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal|Malawi.internal]]'
@@ -719,16 +719,16 @@ dv_has_:
 dv_has_name_de: Malawi
 dv_Area-Total: 118484
 dv_Area-Land: 94080
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: MW
 dv_Alcohol-l: 1.7
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 33.7
 dv_has_place_latitude: -13.95
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]]'
+- '[[../../../../../WikiData/WD~Malawi,1020|WD~Malawi,1020]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~East/Malawi|Malawi]]'
 - '[[/_public/Earth/Continent/Africa/Africa~East/Malawi.public|Malawi.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~East/Malawi.internal|Malawi.internal]]'
@@ -815,7 +815,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Malawi/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -834,7 +834,7 @@ markerFile: [[Malawi]]
 
 ```leaflet
 id: Malawi_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -858,11 +858,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Malawi/Districts~Malawi/Lilongwe|Lilongwe]]  
+Capital :: [[Districts~Malawi/Lilongwe|Lilongwe]]  
 
 ![[Coat_of_arms_of_Malawi.svg|550]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Malawi.mp3|Anthem-Malawi.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Malawi.mp3|Anthem-Malawi.mp3]]
 
 ![[Flag_of_Malawi.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
